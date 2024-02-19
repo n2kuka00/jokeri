@@ -1,0 +1,22 @@
+button {
+    background-color: grey;
+    border-radius: 8px;
+    border: 1px solid black;
+    width: 70px;
+    height: 30px;
+    cursor: pointer;
+}
+
+#rivit {
+    border-spacing: 10px;
+}
+
+#rivit td {
+    border-radius: 8px;
+    border: 1px solid black;
+    padding: 5px;
+    text-align: center;
+    width: 15px;
+    height: 15px;
+    background-color: yellow;
+}
